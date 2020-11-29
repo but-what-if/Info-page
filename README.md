@@ -1,2 +1,2 @@
 # Info-page
-# Learn a little bit more about the world
+# Learn little bit more about the world
